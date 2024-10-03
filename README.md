@@ -18,5 +18,6 @@ The dashboard typically aggregates key metrics and insights into an interactive,
 - Imblearn  
 - Google colab
 - Visual Studio 
-- Streamlit.
+- Streamlit
+- Tableau.
 
