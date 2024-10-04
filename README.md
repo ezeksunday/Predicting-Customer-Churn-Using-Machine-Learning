@@ -8,7 +8,10 @@ The dashboard typically aggregates key metrics and insights into an interactive,
 •	Achieved an optimal performance accuracy of 80% using Random Forest after optimizing hyperparameters.  
 ## Customer's Churn App:  
 <img width="1014" alt="Screenshot 2024-09-29 at 14 42 03" src="https://github.com/user-attachments/assets/ce88d4bd-1b43-4a15-aa2a-ce855302459a">  
-<img width="990" alt="Screenshot 2024-09-29 at 14 42 27" src="https://github.com/user-attachments/assets/679bec18-a3ba-457b-b6ae-ec97aa3c8176">
+<img width="990" alt="Screenshot 2024-09-29 at 14 42 27" src="https://github.com/user-attachments/assets/679bec18-a3ba-457b-b6ae-ec97aa3c8176">  
+
+## Dashboard:
+<img width="1406" alt="Screenshot 2024-10-04 at 08 32 19" src="https://github.com/user-attachments/assets/e478bf06-b02a-4749-9ef2-7301de3b2046">
 
 ## Tools:  
 - Python  
